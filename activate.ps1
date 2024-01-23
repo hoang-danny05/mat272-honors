@@ -1,0 +1,1 @@
+./../manim/Scripts/Activate.ps1

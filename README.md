@@ -16,5 +16,6 @@ to use the project, you need to use the command line.
 - cd lets you go into any folder you specify
 - cd .. goes one folder up
 3) you can now theoretically use the manim command
+4) The main python file is named "quickstart.py"
   
 [OFFICIAL QUICKSTART TUTORIAL](https://docs.manim.community/en/stable/tutorials/quickstart.html)
